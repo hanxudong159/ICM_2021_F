@@ -13,5 +13,6 @@ Finally, we analyze the performance and the sensitivity of the model, which prov
 ## Document Explanation
 - **Code**: contains all the code used in the work, such as BP nerual network
 - **Figure**: contains all the figures used to explain the process and results
+- **Table**: contains the tables used in PCA
 - **2021_ICM_Problem_F**: the problem document provided by authority
 - **2126835.pdf**: the final report
